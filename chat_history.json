@@ -1,0 +1,18 @@
+[
+    {
+        "role": "user",
+        "content": "What is adiabatic computing?"
+    },
+    {
+        "role": "ai",
+        "content": "Adiabatic quantum computing (AQC) is a model of computation that uses quantum-mechanical processes operating under adiabatic conditions. It employs continuous-time evolution of a quantum state from a well-defined initial value to compute a final observed value, following the principles of superposition, tunneling, and entanglement. The evolution is modeled by the Schr\u00f6dinger equation. AQC is a form of universal quantum computation, and its design, development, and demonstration of reliable and programmable adiabatic quantum computers remains an open endeavor."
+    },
+    {
+        "role": "user",
+        "content": "Who is the author of the paper?"
+    },
+    {
+        "role": "ai",
+        "content": "The text does not explicitly mention a single author of a specific paper. However, it appears to be an excerpt from an article in the Oxford Research Encyclopedias, Physics, with contributors including Erica K. Grant and Travis S. Humble from the Quantum Computing Institute, Oak Ridge National Laboratory."
+    }
+]
