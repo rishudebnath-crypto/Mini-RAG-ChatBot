@@ -25,7 +25,16 @@ huggingface-hub
 langchain-classic
 langchain-community
 langchain-chroma
+pypdf
 
 # Environment Variable Management
 python-dotenv
+
+# Backend API
+fastapi
+uvicorn
+
+# Frontend
+streamlit
+requests
 
